@@ -1,15 +1,36 @@
-# Hi, I'm Gyana Prakash Khandual! 👋
+# Hi there, I'm Gyana Prakash Khandual 👋
 
-🌟 Aspiring QA Tester & Full-Stack Developer  
-💻 Learning JavaScript, Cypress, and more at Masai School  
-🎯 Passionate about coding and exploring innovative testing methods  
-📍 Based in Jajpur, Odisha  
+I am a passionate **QA Tester** and **Full-Stack Web Developer** currently studying at **Masai School**. I enjoy ensuring the quality of products and solving technical problems. I'm excited to learn and grow in the tech world.
 
-### 🛠️ Skills
-- Frontend: HTML, CSS, JavaScript, React.js
-- Backend: Java, MySQL
-- Testing: Manual Testing, Selenium, Cypress, API Testing
+## 🚀 Skills & Tools
 
-### 📫 Let's Connect
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [GitHub](https://github.com/GyanaprakashKhandual)
+### Languages and Technologies:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-FFD700?style=flat&logo=swagger&logoColor=black)
+
+### Tools:
+![Git](https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+## 🌱 Current Focus
+- Learning **SDET** concepts and best practices
+- Enhancing my skills in **API Testing** and **Automation** with **Cypress** and **Selenium**
+- Building projects with **React.js** and **Java**
+
+## 📊 GitHub Stats
+
+![Gyana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyanaprakashk&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+
+## 📣 Let's Connect
+- LinkedIn: [Gyana Prakash Khandual](https://www.linkedin.com/in/gyanaprakashkhandual/)
+- Twitter: [@GyanaKhandual](https://twitter.com/GyanaKhandual)
+
+Feel free to check out my repositories and reach out if you'd like to collaborate! 🔧
