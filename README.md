@@ -23,11 +23,11 @@ I am a passionate **QA Tester** and **Full-Stack Web Developer** currently study
 ## 🌱 Current Focus
 - Learning **SDET** concepts and best practices
 - Enhancing my skills in **API Testing** and **Automation** with **Cypress** and **Selenium**
-- Building projects with **React.js** and **Java**
+- Building projects with **HTML** **CSS** and **Java Script**
 
 
 ## 📣 Let's Connect
-- LinkedIn: [Gyana Prakash Khandual](https://www.linkedin.com/in/gyanaprakashkhandual/)
+- LinkedIn: [Gyana Prakash Khandual](https://www.linkedin.com/in/gyana-prakash-khandual-79b205332/)
 
 
 Feel free to check out my repositories and reach out if you'd like to collaborate! 🔧
