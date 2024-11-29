@@ -25,12 +25,9 @@ I am a passionate **QA Tester** and **Full-Stack Web Developer** currently study
 - Enhancing my skills in **API Testing** and **Automation** with **Cypress** and **Selenium**
 - Building projects with **React.js** and **Java**
 
-## 📊 GitHub Stats
-
-![Gyana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyanaprakashk&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
 ## 📣 Let's Connect
 - LinkedIn: [Gyana Prakash Khandual](https://www.linkedin.com/in/gyanaprakashkhandual/)
-- Twitter: [@GyanaKhandual](https://twitter.com/GyanaKhandual)
+
 
 Feel free to check out my repositories and reach out if you'd like to collaborate! 🔧
