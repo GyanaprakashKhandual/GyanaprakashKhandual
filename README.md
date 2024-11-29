@@ -1,7 +1,3 @@
-
-
-
-
 # Hi, I'm Gyana Prakash Khandual! 👋
 
 🌟 Aspiring QA Tester & Full-Stack Developer  
