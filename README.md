@@ -2,28 +2,39 @@
 
 I am a passionate **QA Tester** and **Full-Stack Web Developer** currently studying at **Masai School**. I enjoy ensuring the quality of products and solving technical problems. I'm excited to learn and grow in the tech world.
 
-## 🚀 Skills & Tools
 
-### Languages and Technologies:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
- 
+## 🛠️ Tech Stack  
 
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![API Testing](https://img.shields.io/badge/API%20Testing-FFD700?style=flat&logo=swagger&logoColor=black)
+### 🖋️ **Languages and Skills**  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)  
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat-square)  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square)  
+![API Testing](https://img.shields.io/badge/-API%20Testing-6DB33F?logo=swagger&logoColor=white&style=flat-square)  
 
-### Tools:
-![Git](https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+### 🛠️ **Tools**  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)  
+![Spring Tool](https://img.shields.io/badge/-Spring%20Tool-6DB33F?logo=spring&logoColor=white&style=flat-square)  
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=white&style=flat-square)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)  
 
-## 🌱 Current Focus
-- Learning **SDET** concepts and best practices
-- Enhancing my skills in **API Testing** and **Automation** with **Cypress** and **Selenium**
-- Building projects with **HTML** **CSS** and **Java Script**
+---
+
+## 🏆 About Me  
+
+- 💻 I'm currently learning **Selenim** and **Java**.  
+- 🌱 I am passionate about **software quality assurance** and **web development**.  
+- 🎨 Creativity drives me, and I strive to merge functionality with aesthetics.  
+- 🌍 I live in **Jajpur, Odisha**, embracing the beauty of rural life while exploring the tech world.  
+
+---
+
+
+⭐️ **Feel free to explore my repositories and connect with me!**  
+
 
 
 ## 📣 Let's Connect
