@@ -12,7 +12,6 @@ I am a passionate **QA Tester** and **Full-Stack Web Developer** currently study
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) 
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat-square) 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square) 
-![API Testing](https://img.shields.io/badge/-API%20Testing-6DB33F?logo=swagger&logoColor=white&style=flat-square)  
 
 ### 🛠️ **Tools**  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square) 
