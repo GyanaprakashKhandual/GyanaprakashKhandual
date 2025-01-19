@@ -35,7 +35,7 @@ I am a passionate **QA Tester** and **Full-Stack Web Developer** currently study
 
 ### 🛠️ **Tools**  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square) 
-![Spring Tool](https://img.shields.io/badge/-Spring%20Tool-6DB33F?logo=spring&logoColor=white&style=flat-square) 
+![Intellij Ideal](https://img.shields.io/badge/-Spring%20Tool-6DB33F?logo=spring&logoColor=white&style=flat-square) 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=white&style=flat-square) 
 
 
