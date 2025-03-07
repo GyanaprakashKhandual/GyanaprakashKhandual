@@ -8,7 +8,7 @@ I am a passionate **QA Tester** and **Full-Stack Web Developer** currently study
 
 ### 🖋️ **Frontend Development**  
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; gap: 10px;">
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square) 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square) 
@@ -27,7 +27,7 @@ I am a passionate **QA Tester** and **Full-Stack Web Developer** currently study
 
 ## 🔍 Quality Assurance  
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; gap: 10px;">
 
 ![Manual Testing](https://img.shields.io/badge/Tool-Manual_Testing-green?style=flat-square)  
 ![Cypress](https://img.shields.io/badge/Framework-Cypress-darkgreen?style=flat-square&logo=cypress)  
@@ -48,7 +48,7 @@ I am a passionate **QA Tester** and **Full-Stack Web Developer** currently study
 
 ## 💾 Databases  
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; gap: 10px;">
 
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=flat-square&logo=mongodb)  
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue?style=flat-square&logo=mysql)  
@@ -59,7 +59,7 @@ I am a passionate **QA Tester** and **Full-Stack Web Developer** currently study
 
 ## 🛠️ Version Control and Collaboration  
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; gap: 10px;">
 
 ![Git](https://img.shields.io/badge/Version_Control-Git-orange?style=flat-square&logo=git)  
 ![GitHub](https://img.shields.io/badge/Platform-GitHub-black?style=flat-square&logo=github)  
@@ -70,7 +70,7 @@ I am a passionate **QA Tester** and **Full-Stack Web Developer** currently study
 
 ### 🛠️ **Tools**  
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; gap: 10px;">
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)  
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=flat-square)  
