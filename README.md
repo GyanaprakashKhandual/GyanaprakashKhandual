@@ -8,7 +8,7 @@ I am a passionate **QA Tester** and **Full-Stack Web Developer** just passed out
 
 ### 🖋️ **Frontend Development**  
 
-<div style="display: flex; flex-direction-row">
+<div style="align: left">
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square) 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square) 
