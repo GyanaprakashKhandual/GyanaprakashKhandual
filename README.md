@@ -1,6 +1,6 @@
 # Hi there, I'm Gyana Prakash Khandual 👋
 
-I am a passionate **QA Tester** and **Full-Stack Web Developer** currently studying at **Masai School**. I enjoy ensuring the quality of products and solving technical problems. I'm excited to learn and grow in the tech world.
+I am a passionate **QA Tester** and **Full-Stack Web Developer** just passed out from **Masai School**. I enjoy ensuring the quality of products and solving technical problems at Avidus Interactive. I'm excited to learn and grow in the tech world.
 
 ---
 
@@ -8,7 +8,7 @@ I am a passionate **QA Tester** and **Full-Stack Web Developer** currently study
 
 ### 🖋️ **Frontend Development**  
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; flex-direction: row gap: 10px;">
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square) 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square) 
