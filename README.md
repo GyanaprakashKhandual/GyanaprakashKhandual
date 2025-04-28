@@ -1,94 +1,88 @@
-# Hi there, I'm Gyana Prakash Khandual 👋
+<h1 align="center">Hi there, I'm Gyana Prakash Khandual 👋</h1>
 
-I am a passionate **QA Tester** and **Full-Stack Web Developer** just passed out from **Masai School**. I enjoy ensuring the quality of products and solving technical problems at Avidus Interactive. I'm excited to learn and grow in the tech world.
-
----
-
-## 🛠️ Tech Stack  
-
-### 🖋️ **Frontend Development**  
-
-<div style="align: left">
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square) 
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square) 
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)  
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white&style=flat-square) 
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?logo=framer&logoColor=white&style=flat-square)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
-![React.js](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black&style=flat-square) 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)  
-![Material UI](https://img.shields.io/badge/-MaterialUI-007FFF?logo=mui&logoColor=white&style=flat-square)  
-
-</div>
+<p align="center">
+I am a passionate QA Tester and Full-Stack Web Developer just passed out from <strong>Masai School</strong>. I enjoy ensuring the quality of products and solving technical problems at <strong>Avidus Interactive</strong>. I'm excited to learn and grow in the tech world.
+</p>
 
 ---
 
-## 🔍 Quality Assurance  
+## 🚀 Tech Stack
 
-<div style="display: flex; flex-direction:row">
+### 🌐 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+</p>
 
-![Manual Testing](https://img.shields.io/badge/Tool-Manual_Testing-green?style=flat-square)  
-![Cypress](https://img.shields.io/badge/Framework-Cypress-darkgreen?style=flat-square&logo=cypress)  
-![Selenium](https://img.shields.io/badge/Tool-Selenium-brightgreen?style=flat-square&logo=selenium)  
-![Playwright](https://img.shields.io/badge/Tool-Playwright-purple?style=flat-square&logo=microsoft)  
-![Appium](https://img.shields.io/badge/Tool-Appium-blueviolet?style=flat-square&logo=appium)  
-![Postman](https://img.shields.io/badge/Tool-Postman-orange?style=flat-square&logo=postman)  
-![Rest Assured](https://img.shields.io/badge/Tool-Rest_Assured-yellowgreen?style=flat-square)  
-![Burp Suite](https://img.shields.io/badge/Tool-Burp_Suite-lightgrey?style=flat-square&logo=burp-suite)  
-![DB Unit](https://img.shields.io/badge/Tool-DB_Unit-red?style=flat-square)  
-![JMeter](https://img.shields.io/badge/Tool-JMeter-red?style=flat-square&logo=apachejmeter)  
-![Rail Model](https://img.shields.io/badge/Tool-Rail_Model-darkblue?style=flat-square)  
-![Jira](https://img.shields.io/badge/Tool-Jira-blue?style=flat-square&logo=jira)  
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-</div>
-
----
-
-## 💾 Databases  
-
-<div style="display: flex; gap: 10px;">
-
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=flat-square&logo=mongodb)  
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue?style=flat-square&logo=mysql)  
-
-</div>
-
----
-
-## 🛠️ Version Control and Collaboration  
-
-<div style="display: flex; gap: 10px;">
-
-![Git](https://img.shields.io/badge/Version_Control-Git-orange?style=flat-square&logo=git)  
-![GitHub](https://img.shields.io/badge/Platform-GitHub-black?style=flat-square&logo=github)  
-
-</div>
+### 📲 API & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/RESTful_API-000000?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
-### 🛠️ **Tools**  
+## 🧪 QA & Testing Tools
 
-<div style="display: flex; gap: 10px;">
+### 🛠️ Manual Testing
+- Functional Testing
+- UI/UX Testing
+- Bug Reporting
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)  
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=flat-square)  
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=white&style=flat-square)  
-
-</div>
+### 🤖 Automation Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/Manual_Testing-000000?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-00A0DC?style=for-the-badge&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2C2E34?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rest_Assured-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBUnit-000000?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-009DD1?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Allure_Report-4C4C4C?style=for-the-badge&logo=allure&logoColor=white" />
+</p>
 
 ---
 
-## 🏆 About Me  
-- 💻 I'm currently learning **Appium** and **Burp Suite**.  
-- 🌱 I am passionate about **software quality assurance** and **web development**.  
-- 🎨 Creativity drives me, and I strive to merge functionality with aesthetics.  
-- 🌍 I live in **Jajpur, Odisha**, embracing the beauty of rural life while exploring the tech world.  
+## 📚 Other Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 📣 Let's Connect  
-- LinkedIn: [Gyana Prakash Khandual](https://www.linkedin.com/in/gyana-prakash-khandual-79b205332/)  
+## 📈 My Mission
 
-Feel free to check out my repositories and reach out if you'd like to collaborate! 🔧
+> "Building powerful applications and ensuring their quality."
+
+---
+
+## 📫 Connect with Me
+
+- **Email:** [gyanaprakashkhandual@gmail.com](mailto:gyanaprakashkhandual@gmail.com)
+- **LinkedIn:** [linkedin.com/in/gyanaprakashkhandual](https://www.linkedin.com/in/gyanaprakashkhandual/)
