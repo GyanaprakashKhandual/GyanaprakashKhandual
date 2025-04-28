@@ -85,4 +85,3 @@ I am a passionate QA Tester and Full-Stack Web Developer just passed out from <s
 ## 📫 Connect with Me
 
 - **Email:** [gyanaprakashkhandual@gmail.com](mailto:gyanaprakashkhandual@gmail.com)
-- **LinkedIn:** [linkedin.com/in/gyanaprakashkhandual](https://www.linkedin.com/in/gyanaprakashkhandual/)
