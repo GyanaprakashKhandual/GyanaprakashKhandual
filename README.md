@@ -50,26 +50,6 @@
   <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
-### 📊 Data Science & ML
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TensorFlow-FD6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFBF00?logo=huggingface&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BentoML-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Statsmodels-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dash-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer_Vision-2E86C1?style=for-the-badge" />
-</p>
-
 ### ☁️ Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
