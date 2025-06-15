@@ -90,27 +90,44 @@
 
 
 ### 🤖 Automation & Performance
+### 🤖 Automation & Performance
 <p>
   <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Playwright-2C2E34?logo=microsoft&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Appium-00A0DC?logo=appium&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Playwright-2C2E34?logo=microsoft&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nightwatch.js-04C4E0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Espresso-0056D2?logo=android&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XCUITest-1575F9?logo=apple&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?logo=java&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Rest_Assured-000000?logo=java&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOAPUI-85BC3D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/K6-7D64FF?logo=k6&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Allure-4C4C4C?logo=allure&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JUnit-25A162?logo=java&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Chai-Mocha-8D6748?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gatling-FF9E2A?logo=gatling&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artillery-FF0505?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Locust-00A3E0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6600?logo=burpsuite&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/OWASP_ZAP-009DD1?logo=owasp&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Testim.io-5A4FCF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Percy-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Allure-4C4C4C?logo=allure&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML_Report-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Extent_Reports-5CE500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mochawesome-8D6748?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Test_Rail-65C179?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Caffein_Test-FFDD00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Faker-EF5350?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Testim-5A4FCF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Percy-8E44AD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WireMock-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CaffeTest-000000?style=for-the-badge" />
 </p>
 
 ---
