@@ -15,7 +15,6 @@
 
 ## 🚀 Tech Stack
 
-### 🌐 Frontend Development
 ### 🎨 Frontend Development
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -37,20 +36,12 @@
 
 ### ⚙️ Backend & DevOps
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pydantic-0A0?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
@@ -95,7 +86,7 @@
 </div>
 
 
-### 🤖 Automation & Performance
+
 ### 🤖 Automation & Performance
 <p>
   <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" />
