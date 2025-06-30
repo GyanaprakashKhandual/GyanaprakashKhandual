@@ -1,7 +1,6 @@
 # Hi there, I'm Gyana Prakash Khandual 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=QA%20Specialist%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
@@ -125,11 +124,11 @@
   
 | Language | Level | Code Quality |
 |----------|-------|--------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Expert | ![95%](https://progress-bar.dev/95?title=95%) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | Expert | ![92%](https://progress-bar.dev/92?title=92%) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Expert | ![90%](https://progress-bar.dev/90?title=90%) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | Advanced | ![85%](https://progress-bar.dev/85?title=85%) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | Advanced | ![82%](https://progress-bar.dev/82?title=82%) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Expert | ![95%]
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | Expert | ![92%]
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Expert | ![90%]
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | Advanced | ![85%]
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | Advanced | ![82%]
 
 </div>
 
@@ -273,11 +272,11 @@ graph TD
 
 | 📈 Metric | 🎯 Achievement | 📊 Progress |
 |-----------|---------------|-------------|
-| **Test Cases Executed** | 10,000+ | ![100%](https://progress-bar.dev/100?title=100%&color=4CAF50) |
-| **Bugs Found & Fixed** | 2,500+ | ![95%](https://progress-bar.dev/95?title=95%&color=FF9800) |
-| **Automation Coverage** | 85% | ![85%](https://progress-bar.dev/85?title=85%&color=2196F3) |
-| **Performance Optimization** | 40% Faster | ![90%](https://progress-bar.dev/90?title=90%&color=9C27B0) |
-| **Security Vulnerabilities** | 150+ Fixed | ![88%](https://progress-bar.dev/88?title=88%&color=F44336) |
+| **Test Cases Executed** | 10,000+ | ![100%]
+| **Bugs Found & Fixed** | 2,500+ | ![95%]
+| **Automation Coverage** | 85% | ![85%]
+| **Performance Optimization** | 40% Faster | ![88%]
+| **Security Vulnerabilities** | 150+ Fixed | ![88%]
 
 </div>
 
