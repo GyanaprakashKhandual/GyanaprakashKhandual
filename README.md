@@ -21,9 +21,6 @@
   <a href="https://caffetest.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_CaffeTest-Visit_Project-blue?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000&color=4A90E2" />
   </a>
-  <a href="https://oneiro.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🎥_Oneiro_App-Explore-purple?style=for-the-badge&logo=video&logoColor=white&labelColor=000&color=800080" />
-  </a>
 </div>
 
 ---
@@ -179,7 +176,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gyanaprakashkhandual&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF7B72&area=true&area_color=58A6FF" width="100%"/>
+  <img src="https://github.pumbas.net/api/contributions/gyanaprakashkhandual
+"width="100%"/>
 </div>
 
 ---
@@ -193,19 +191,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gyanaprakashkhandual&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
   
-  ### 💡 "Quality is never an accident. It is always the result of intelligent effort."
+  ###  "Quality is never an accident. It is always the result of intelligent effort."
   
   ![Profile Views](https://komarev.com/ghpvc/?username=gyanaprakashkhandual&color=blueviolet&style=for-the-badge&label=Profile+Views)
   ![GitHub followers](https://img.shields.io/github/followers/gyanaprakashkhandual?color=blue&style=for-the-badge&logo=github&label=Followers)
   ![GitHub stars](https://img.shields.io/github/stars/gyanaprakashkhandual?color=yellow&style=for-the-badge&logo=github&label=Stars)
-  
-  ⭐️ From [Gyana Prakash Khandual](https://github.com/gyanaprakashkhandual) with ❤️
   
 </div>
