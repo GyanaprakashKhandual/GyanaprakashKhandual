@@ -175,10 +175,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.pumbas.net/api/contributions/gyanaprakashkhandual
-"width="100%"/>
-</div>
+![GyanaprakashKhandual's GitHub contributions](https://github.pumbas.net/api/contributions/GyanaprakashKhandual?colour=000000&bgColour=CDCD90&dotColour=000000)
 
 ---
 
