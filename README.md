@@ -47,7 +47,7 @@ I am a full-stack engineer and ethical hacker who builds production-grade applic
 
 `October 2025 – Present` &nbsp; `Remote`
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%">
 
@@ -72,7 +72,7 @@ I am a full-stack engineer and ethical hacker who builds production-grade applic
 
 ## Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%">
 <h3 align="center">CaffeTest - Bug Tracking System</h3>
