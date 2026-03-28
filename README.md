@@ -6,8 +6,6 @@
 
 I am a full-stack engineer and ethical hacker who builds production-grade applications, ships AI-powered developer tools, and secures systems through hands-on penetration testing — all while owning end-to-end QA across 7 cross-functional teams with zero customer complaints.
 
----
-
 ## Core Competencies
 
 <table width="100%">
@@ -81,24 +79,22 @@ I am a full-stack engineer and ethical hacker who builds production-grade applic
 
 **Development**
 
-- Delivered **8+ production apps** with React, Next.js & Node.js
-- Built RESTful APIs + CI/CD pipelines → **50% faster deployments**, **99% uptime**
-- Architected full UI/UX for web and mobile products from scratch
+- Delivered **3+ production apps** using MERN stack.
+- Built RESTful APIs → **50% faster deployments**
+- Architected full UI/UX for web application.
 
 </td>
 <td width="50%">
 
 **Quality Assurance**
 
-- Sole QA across **7 cross-functional teams** → **zero complaints**
-- Automated UI + API pipelines → **50% less testing time**, **99% release quality**
-- Resolved **100+ production issues** in Agile sprints via Jira
+- Sole QA across **7 cross-functional teams**
+- Automated UI + API pipelines → **50% less testing time**
+- Resolved **100+ production issues** in Agile sprints
 
 </td>
 </tr>
 </table>
-
----
 
 ## Featured Projects
 
@@ -139,23 +135,20 @@ I am a full-stack engineer and ethical hacker who builds production-grade applic
 ## What Sets Me Apart
 
 ✅ Builds and breaks — Full SDLC ownership from architecture to security audit. No handoffs.
+<br>
 ✅ Ships AI tooling — Production-grade QA automation with Anthropic AI. Not demos, real workflows.
+<br>
 ✅ Hacks what he builds — Penetration testing, OWASP audits, and vulnerability scans on every system.
-
----
 
 ## Future Plans
 
 ✅ Caffetest goes enterprise — CI/CD triggers, AI bug prioritization, and an Electron desktop app for DevSecOps teams.
+<br>
 ✅ Automation at scale — Multi-language codegen, Playwright, and Cypress — one unified testing ecosystem.
+<br>
 ✅ Cloud-native mastery — AWS, Kubernetes, and security pipelines baked into every deployment.
 
----
-
-## 🧠 Philosophy
-
-<div align="center">
+## Philosophy
 
 > _"I design the system. I break the system. I own the outcome."_
 
-</div>
