@@ -106,14 +106,6 @@ I am a full-stack engineer and ethical hacker who builds production-grade applic
 
 </table>
 
-## What Sets Me Apart
-
-✅ Builds and breaks — Full SDLC ownership from architecture to security audit. No handoffs.
-<br>
-✅ Ships AI tooling — Production-grade QA automation with Anthropic AI. Not demos, real workflows.
-<br>
-✅ Hacks what he builds — Penetration testing, OWASP audits, and vulnerability scans on every system.
-
 ## Future Plans
 
 ✅ Caffetest goes enterprise — CI/CD triggers, AI bug prioritization, and an Electron desktop app for DevSecOps teams.
@@ -125,9 +117,3 @@ I am a full-stack engineer and ethical hacker who builds production-grade applic
 ## Philosophy
 
 > _"I design the system. I break the system. I own the outcome."_
-
-## Contact
-
-Phone: +91 7606939833
-<br>
-Email: gyanaprakashkhandual@outlook.com
