@@ -89,7 +89,7 @@ I am a full-stack engineer and ethical hacker who builds production-grade applic
 **Quality Assurance**
 
 - Sole QA across **7 cross-functional teams**
-- Automated UI + API pipelines → **50% less testing time**
+- Automated API pipelines → **50% less testing time**
 - Resolved **100+ production issues** in Agile sprints
 
 </td>
@@ -107,10 +107,10 @@ I am a full-stack engineer and ethical hacker who builds production-grade applic
 <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend"/>
 </a>
 <br><br>
-<p><strong>Tech Stack:</strong> React, Tailwind CSS, JavaScript</p>
+<p><strong>Tech Stack:</strong> React, Node, Express, MongoDB</p>
 <p>A comprehensive bug tracking web application for managing software development issues and testing workflows.</p>
-<a href="https://github.com/GyanaprakashKhandual/Caffetest-app.git" target="_blank">
-<img src="https://img.shields.io/badge/View_Frontend-000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://caffetest.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/View_App-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
 </td>
@@ -151,4 +151,3 @@ I am a full-stack engineer and ethical hacker who builds production-grade applic
 ## Philosophy
 
 > _"I design the system. I break the system. I own the outcome."_
-
