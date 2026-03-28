@@ -53,7 +53,7 @@ I am a full-stack engineer and ethical hacker who builds production-grade applic
 
 **Development**
 
-- Delivered **3+ production apps** using MERN stack.
+- Delivered **3+ production apps** using MERN.
 - Built RESTful APIs → **50% faster deployments**
 - Architected full UI/UX for web application.
 
