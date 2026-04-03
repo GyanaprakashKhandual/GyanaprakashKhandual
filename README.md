@@ -45,7 +45,7 @@ I am a full-stack engineer and ethical hacker who builds production-grade applic
 
 ### Full Stack Web Developer & SDET — Avidus Interactive
 
-`October 2025 – Present` &nbsp; `Remote`
+`January 2025 – Present` &nbsp; `Remote.`
 
 <table width="100%">
 <tr>
