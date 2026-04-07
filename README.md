@@ -6,14 +6,12 @@ Hybrid engineer owning dev, QA, and security end-to-end. Sole SDET for 7 teams a
 
 ## Projects
 
-| Project        | Description                                                                                                | GitHub                                                                                                                                                          | Users  | Skills           |
-| -------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------------- |
-| **Caffetest**  | AI bug tracker + VS Code extension. Auto-generates test cases & bug reports from Selenium scripts.         | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/bug-tracker-frontend) | 200+   | Next.js, Node.js |
-| **PISL Infra** | Unified UI, API, perf & security testing framework with SVG dashboards from k6 metrics.                    | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/pisl)                 | NA     | Grafana, K6      |
-| **Cucumber**   | Selenium Cucumber is Visual Studio code Extension, Which help user to genrate the steps from feature file. | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/seleniumcucumber)     | 8000+  | React, TS, NPM   |
-| **Veloria**    | Open-source accessible, composable, themeable React UI components for production apps.                     | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/veloria)              | 2,100+ | React, TS, NPM   |
-
----
+| Project        | Description                                                           | GitHub                                                                                                                                                          | Users  | Skills           |
+| -------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------------- |
+| **Caffetest**  | AI VS Code tool — Selenium → test cases + bug reports automatically.  | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/bug-tracker-frontend) | 200+   | Next.js, Node.js |
+| **PISL Infra** | Full-stack testing framework + k6 SVG dashboards.                     | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/pisl)                 | NA     | Grafana, K6      |
+| **Cucumber**   | Cucumber step generator for VS Code — from feature file to steps.     | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/seleniumcucumber)     | 8000+  | TS               |
+| **Veloria**    | Accessible, themeable React UI components — open-source & prod-ready. | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/veloria)              | 2,100+ | React, TS        |
 
 ## Experience
 
@@ -29,8 +27,6 @@ Hybrid engineer owning dev, QA, and security end-to-end. Sole SDET for 7 teams a
 
 Sole QA across 7 teams → zero complaints. UI/API automation → 50% faster testing, 99% release quality. 100+ production issues resolved in Agile/Jira.
 
----
-
 ## Skills
 
 | Domain           | Technologies                                                                         |
@@ -45,23 +41,13 @@ Sole QA across 7 teams → zero complaints. UI/API automation → 50% faster tes
 
 ## Education
 
-**Bachelor of Technology** — Computer Science & Engineering  
-Pursuing · Relevant coursework: Data Structures, Operating Systems, Computer Networks, Database Management, Software Engineering
-
-| Certification                         | Issuer                                             |
-| ------------------------------------- | -------------------------------------------------- |
-| Ethical Hacking & Penetration Testing | Self-directed · Kali Linux, Metasploit, Burp Suite |
-| Full Stack Web Development            | Project-based learning · React, Node.js, MongoDB   |
-| Software Development Engineer in Test | Hands-on · Selenium, Cypress, Playwright, k6       |
-
----
+Bachelor of computer application - Utkal University May - 2021 to May 2024
+Master of computer application - KIIT June - 2024 to June 2026
+Full Stack Web Development - MASAI June 2024 - December 2024
+Software development engineering in test - Udemy January 2025 - June 2025
+Ethical Hacking - Udemy July 2026 - December 2026
 
 ## Connect
 
-| Platform  | Link                                                                                      |
-| --------- | ----------------------------------------------------------------------------------------- |
-| Portfolio | [gyanprakash.vercel.app](https://gyanprakash.vercel.app)                                  |
-| GitHub    | [github.com/gyanaprakashkhandual](https://github.com/gyanaprakashkhandual)                |
-| LinkedIn  | [linkedin.com/in/gyanaprakashkhandual](https://www.linkedin.com/in/gyanaprakashkhandual/) |
-| Email     | [gyanaprakashkhandual@gmail.com](mailto:gyanaprakashkhandual@gmail.com)                   |
-| npm       | [npmjs.com/~gyanaprakashkhandual](https://www.npmjs.com/~gyanaprakashkhandual)            |
+Call - 7606939833
+Mail - gyanaprakashkhandual@gmail.com
