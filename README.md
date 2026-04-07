@@ -39,15 +39,15 @@ Sole QA across 7 teams → zero complaints. UI/API automation → 50% faster tes
 
 ## Education
 
-Bachelor of computer application - Utkal University May - 2021 to May 2024
-<br>
-Master of computer application - KIIT June - 2024 to June 2026
-<br>
-Full Stack Web Development - MASAI June 2024 - December 2024
-<br>
-Software development engineering in test - Udemy January 2025 - June 2025
-<br>
-Ethical Hacking - Udemy July 2026 - December 2026
+🎓 Bachelor of Computer Application — Utkal University `May 2021 – May 2024`
+
+🎓 Master of Computer Application — KIIT `June 2024 – June 2026`
+
+💻 Full Stack Web Development — MASAI `June 2024 – December 2024`
+
+🧪 Software Development Engineering in Test — Udemy `January 2025 – June 2025`
+
+🔐 Ethical Hacking — Udemy `July 2026 – December 2026`
 
 ## Connect
 
