@@ -1,119 +1,67 @@
-# Gyana Prakash Khandual
+## Overview
 
-**Full Stack Developer** &nbsp;•&nbsp; **QA Engineer** &nbsp;•&nbsp; **SDET** &nbsp;•&nbsp; **Ethical Hacker**
+Hybrid engineer owning dev, QA, and security end-to-end. Sole SDET for 7 teams at Avidus Interactive → zero customer complaints. Ship AI tools, VS Code extensions, and produc tion apps from commit to release. Ethical hacker — pen testing, vuln assessment, security automation on every system built.
 
-## Professional Summary
+---
 
-I am a full-stack engineer and ethical hacker who builds production-grade applications, ships AI-powered developer tools, and secures systems through hands-on penetration testing — all while owning end-to-end QA across 7 cross-functional teams with zero customer complaints.
+## Projects
 
-## Core Competencies
+| Project        | Description                                                                                                | GitHub                                                                                                                                                          | Users  | Skills           |
+| -------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------------- |
+| **Caffetest**  | AI bug tracker + VS Code extension. Auto-generates test cases & bug reports from Selenium scripts.         | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/bug-tracker-frontend) | 200+   | Next.js, Node.js |
+| **PISL Infra** | Unified UI, API, perf & security testing framework with SVG dashboards from k6 metrics.                    | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/pisl)                 | NA     | Grafana, K6      |
+| **Cucumber**   | Selenium Cucumber is Visual Studio code Extension, Which help user to genrate the steps from feature file. | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/seleniumcucumber)     | 8000+  | React, TS, NPM   |
+| **Veloria**    | Open-source accessible, composable, themeable React UI components for production apps.                     | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/veloria)              | 2,100+ | React, TS, NPM   |
 
-<table width="100%">
-<tr>
-<td width="25%" strong>Frontend</strong></td>
-<td width="25%" ><strong>Backend</strong></td>
-<td width="25%"><strong>Testing & QA</strong></td>
-<td width="25%"><strong>Ethical Hacking</strong></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></td>
-<td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/Rest_Assured-339933?style=for-the-badge&logo=java&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/OWASP_ZAP-0092C6?style=for-the-badge&logo=owasp&logoColor=white"/></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/Nikto-CC0000?style=for-the-badge&logo=gnubash&logoColor=white"/></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/Grafana_k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/Fatrat-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white"/></td>
-</tr>
-</table>
+---
 
 ## Experience
 
 ### Full Stack Web Developer & SDET — Avidus Interactive
 
-`January 2025 – Present` &nbsp; `Remote.`
-
-<table width="100%">
-<tr>
-<td width="50%">
+`January 2025 – Present` · Remote
 
 **Development**
 
-- Delivered **3+ production apps** using MERN.
-- Built RESTful APIs → **50% faster deployments**
-- Architected full UI/UX for web application.
-
-</td>
-<td width="50%">
+8+ production apps (React/Next.js/Node.js, REST APIs, CI/CD) → 50% faster deploys, 99% uptime. End-to-end UI/UX for web + mobile from zero.
 
 **Quality Assurance**
 
-- Sole QA across **7 cross-functional teams**
-- Automated API testing → **50% less testing time**
-- Resolved **100+ production issues** in Agile sprints
+Sole QA across 7 teams → zero complaints. UI/API automation → 50% faster testing, 99% release quality. 100+ production issues resolved in Agile/Jira.
 
-</td>
-</tr>
-</table>
+---
 
-## Featured Projects
+## Skills
 
-<table width="100%">
-<tr>
-<td width="50%">
-<h3 align="center">CaffeTest - Bug Tracking System</h3>
-<div align="center">
-<a href="https://github.com/GyanaprakashKhandual/Caffetest-app.git" target="_blank">
-<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend"/>
-</a>
-<br><br>
-<p><strong>Tech Stack:</strong> React, Node, Express, MongoDB</p>
-<p>A comprehensive bug tracking web application for managing software development issues and testing workflows.</p>
-<a href="https://caffetest.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/View_App-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Mega Jewelers - Automation Testing</h3>
-<div align="center">
-<a href="https://github.com/GyanaprakashKhandual/Mega-Jewelers-Automation-Test.git" target="_blank">
-<img src="https://img.shields.io/badge/Testing-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Testing"/>
-</a>
-<br><br>
-<p><strong>Tech Stack:</strong> Selenium, Rest Assured, Grafana</p>
-<p>Comprehensive automation testing suite for mobile app testing with detailed test reports and coverage.</p>
-<a href="https://github.com/GyanaprakashKhandual/Mega-Jewelers-Automation-Test.git" target="_blank">
-<img src="https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</div>
-</td>
-</tr>
+| Domain           | Technologies                                                                         |
+| ---------------- | ------------------------------------------------------------------------------------ |
+| **Frontend**     | React, Next.js, TypeScript, Tailwind CSS, Three.js, Framer Motion, GSAP, Material UI |
+| **Backend**      | Node.js, Express, REST API, JWT, Docker                                              |
+| **Database**     | MongoDB, PostgreSQL, MySQL                                                           |
+| **Testing & QA** | Selenium, Cypress, Playwright, Rest Assured, Postman, Grafana k6, JMeter, Cucumber   |
+| **Security**     | Burp Suite, OWASP ZAP, Nikto, Kali Linux, Metasploit, Nmap                           |
 
-</table>
+---
 
-## Future Plans
+## Education
 
-✅ Caffetest goes enterprise — CI/CD triggers, AI bug prioritization, and an Electron desktop app for DevSecOps teams.
-<br>
-✅ Automation at scale — Multi-language codegen, Playwright, and Cypress — one unified testing ecosystem.
-<br>
-✅ Cloud-native mastery — AWS, Kubernetes, and security pipelines baked into every deployment.
+**Bachelor of Technology** — Computer Science & Engineering  
+Pursuing · Relevant coursework: Data Structures, Operating Systems, Computer Networks, Database Management, Software Engineering
 
-## Philosophy
+| Certification                         | Issuer                                             |
+| ------------------------------------- | -------------------------------------------------- |
+| Ethical Hacking & Penetration Testing | Self-directed · Kali Linux, Metasploit, Burp Suite |
+| Full Stack Web Development            | Project-based learning · React, Node.js, MongoDB   |
+| Software Development Engineer in Test | Hands-on · Selenium, Cypress, Playwright, k6       |
 
-> _"I design the system. I break the system. I own the outcome."_
+---
+
+## Connect
+
+| Platform  | Link                                                                                      |
+| --------- | ----------------------------------------------------------------------------------------- |
+| Portfolio | [gyanprakash.vercel.app](https://gyanprakash.vercel.app)                                  |
+| GitHub    | [github.com/gyanaprakashkhandual](https://github.com/gyanaprakashkhandual)                |
+| LinkedIn  | [linkedin.com/in/gyanaprakashkhandual](https://www.linkedin.com/in/gyanaprakashkhandual/) |
+| Email     | [gyanaprakashkhandual@gmail.com](mailto:gyanaprakashkhandual@gmail.com)                   |
+| npm       | [npmjs.com/~gyanaprakashkhandual](https://www.npmjs.com/~gyanaprakashkhandual)            |
