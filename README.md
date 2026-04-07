@@ -51,5 +51,6 @@ Sole QA across 7 teams → zero complaints. UI/API automation → 50% faster tes
 
 ## Connect
 
-Call - 7606939833
-Mail - gyanaprakashkhandual@gmail.com
+📞 [7606939833](tel:7606939833)
+<br>
+📧 [gyanaprakashkhandual@gmail.com](mailto:gyanaprakashkhandual@gmail.com)
