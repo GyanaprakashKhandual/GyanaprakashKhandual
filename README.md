@@ -1,6 +1,6 @@
 ## Overview
 
-Hybrid engineer owning dev, QA, and security end-to-end. Sole SDET for 7 teams at Avidus Interactive → zero customer complaints. Ship AI tools, VS Code extensions, and produc tion apps from commit to release. Ethical hacker — pen testing, vuln assessment, security automation on every system built.
+I build web apps, handle testing, and do security — all in one. Currently the sole SDET across 7 teams at Avidus Interactive. I ship AI tools, VS Code extensions, and production apps, and run pen testing and security checks on everything I build.
 
 ## Projects
 
@@ -30,8 +30,8 @@ Sole QA across 7 teams → zero complaints. UI/API automation → 50% faster tes
 | Domain           | Technologies                                                                         |
 | ---------------- | ------------------------------------------------------------------------------------ |
 | **Frontend**     | React, Next.js, TypeScript, Tailwind CSS, Three.js, Framer Motion, GSAP, Material UI |
-| **Backend**      | Node.js, Express, REST API, JWT, Docker                                              |
-| **Database**     | MongoDB, PostgreSQL, MySQL                                                           |
+| **Backend**      | Node.js, Express, REST API, JWT, OAuth, Docker                                              |
+| **Database**     | MongoDB, PostgreSQL, MySQL, Redis                                                          |
 | **Testing & QA** | Selenium, Cypress, Playwright, Rest Assured, Postman, Grafana k6, JMeter, Cucumber   |
 | **Security**     | Burp Suite, OWASP ZAP, Nikto, Kali Linux, Metasploit, Nmap                           |
 
